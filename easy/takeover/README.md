@@ -36,8 +36,6 @@ Added the target IP to `/etc/hosts`:
 <TARGET_IP> futurevera.thm
 ```
 
-![Add Target IP](screenshots/takeover-add-futurevera-host.png)
-
 After updating the hosts file, the website became accessible.
 
 ![Futurevera Website](screenshots/takeover-webpage.png)
